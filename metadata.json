@@ -1,29 +1,16 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Test Content 1",
+    "slug": "test-content-1",
     "authors": [
-        "",
-        ""
+        "ccooling"
     ],
-    "duration": ,
+    "duration": 10,
     "prerequisites": [
         {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
+            "slug": "test-content-2",
+            "description": "test-content-1 relies on test-content-2"
         }
     ],
     "related": [
-        {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
-        }
     ]
 }
