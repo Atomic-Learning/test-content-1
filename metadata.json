@@ -1,6 +1,7 @@
 {
     "title": "Test Content 1",
     "slug": "test-content-1",
+    "description": "Content to be used in website-core tests.",
     "authors": [
         "chris_cooling"
     ],
@@ -9,10 +10,7 @@
     ],
     "duration": 10,
     "prerequisites": [
-        {
-            "slug": "test-content-2",
-            "description": "test-content-1 relies on test-content-2"
-        }
+        "test-content-2"
     ],
     "related": [
     ]
